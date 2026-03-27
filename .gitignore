@@ -1,0 +1,10 @@
+/target
+/Cargo.lock
+
+.env
+*.env
+credentials.json
+
+# Local config (contains secrets)
+.config/tah/
+AppData/Roaming/tah/
